@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="DELETE">
+        <sc_cat_item display_value="Submit a Bike Repair">61a0dd739fe131107f44efd21124ab70</sc_cat_item>
+        <sc_category display_value="Can We Help You?">e15706fc0a0a0aa7007fc21e1ab70c2f</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-04 19:48:04</sys_created_on>
+        <sys_id>2007ddf79fe131107f44efd21124abd3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Can We Help You?.Submit a Bike Repair</sys_name>
+        <sys_package display_value="Bike Repairs" source="x_1234_bike_repa_0">9177457b9fa131107f44efd21124abc8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Bike Repairs">9177457b9fa131107f44efd21124abc8</sys_scope>
+        <sys_update_name>sc_cat_item_category_2007ddf79fe131107f44efd21124abd3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-04 19:48:04</sys_updated_on>
+    </sc_cat_item_category>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Bike Repairs">9177457b9fa131107f44efd21124abc8</application>
+        <file_path/>
+        <instance_id>d59c5c2e1ba9b91067e65242604bcb04</instance_id>
+        <instance_name>nowlearning-nlinst01122666-0001</instance_name>
+        <name>sc_cat_item_category_2007ddf79fe131107f44efd21124abd3</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category"><sc_cat_item_category action="INSERT_OR_UPDATE"><sc_cat_item display_value="Submit a Bike Repair">61a0dd739fe131107f44efd21124ab70</sc_cat_item><sc_category display_value="Can We Help You?">e15706fc0a0a0aa7007fc21e1ab70c2f</sc_category><sys_class_name>sc_cat_item_category</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-10-04 19:48:04</sys_created_on><sys_id>2007ddf79fe131107f44efd21124abd3</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Can We Help You?.Submit a Bike Repair</sys_name><sys_package display_value="Bike Repairs" source="x_1234_bike_repa_0">9177457b9fa131107f44efd21124abc8</sys_package><sys_policy/><sys_scope display_value="Bike Repairs">9177457b9fa131107f44efd21124abc8</sys_scope><sys_update_name>sc_cat_item_category_2007ddf79fe131107f44efd21124abd3</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-10-04 19:48:04</sys_updated_on></sc_cat_item_category></record_update>]]></payload>
+        <payload_hash>-762089660</payload_hash>
+        <record_name>Can We Help You?.Submit a Bike Repair</record_name>
+        <reverted_from/>
+        <source>1177457b9fa131107f44efd21124abca</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-04 19:48:04</sys_created_on>
+        <sys_id>6807ddf79fe131107f44efd21124abd6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18afc3baf520000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-04 19:48:04</sys_updated_on>
+        <type>Catalog Item Category</type>
+        <update_guid>ec07ddf76ae1311083f664c281a0bad5</update_guid>
+        <update_guid_history>ec07ddf76ae1311083f664c281a0bad5:-762089660</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Can We Help You?.Submit a Bike Repair">6957553b9fe131107f44efd21124ab5b</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-04 19:49:31</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_category">sc_cat_item_category</sys_db_object>
+        <sys_id>120723673ed041a2b16b28275359e9c9</sys_id>
+        <sys_metadata>2007ddf79fe131107f44efd21124abd3</sys_metadata>
+        <sys_name>Can We Help You?.Submit a Bike Repair</sys_name>
+        <sys_package display_value="Bike Repairs" source="x_1234_bike_repa_0">9177457b9fa131107f44efd21124abc8</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Bike Repairs">9177457b9fa131107f44efd21124abc8</sys_scope>
+        <sys_scope_delete display_value="">80355beb5d5349108b7edc0e7075fb04</sys_scope_delete>
+        <sys_update_name>sc_cat_item_category_2007ddf79fe131107f44efd21124abd3</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_category_2007ddf79fe131107f44efd21124abd3">6807ddf79fe131107f44efd21124abd6</sys_update_version>
+    </sys_metadata_delete>
+</record_update>

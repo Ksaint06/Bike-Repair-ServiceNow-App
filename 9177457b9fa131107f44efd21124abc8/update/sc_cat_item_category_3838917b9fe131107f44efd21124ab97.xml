@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="Submit a Bike Repair">61a0dd739fe131107f44efd21124ab70</sc_cat_item>
+        <sc_category display_value="Can We Help You?">e15706fc0a0a0aa7007fc21e1ab70c2f</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-04 19:53:16</sys_created_on>
+        <sys_id>3838917b9fe131107f44efd21124ab97</sys_id>
+        <sys_name>Can We Help You?.Submit a Bike Repair</sys_name>
+        <sys_package display_value="Bike Repairs" source="x_1234_bike_repa_0">9177457b9fa131107f44efd21124abc8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Bike Repairs">9177457b9fa131107f44efd21124abc8</sys_scope>
+        <sys_update_name>sc_cat_item_category_3838917b9fe131107f44efd21124ab97</sys_update_name>
+    </sc_cat_item_category>
+</record_update>

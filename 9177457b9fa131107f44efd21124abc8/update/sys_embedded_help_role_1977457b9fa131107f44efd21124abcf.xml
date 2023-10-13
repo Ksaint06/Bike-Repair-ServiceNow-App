@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>10</order>
+        <role display_value="x_1234_bike_repa_0.admin" name="x_1234_bike_repa_0.admin">d977457b9fa131107f44efd21124abcd</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-04 18:40:08</sys_created_on>
+        <sys_id>1977457b9fa131107f44efd21124abcf</sys_id>
+        <sys_name>d977457b9fa131107f44efd21124abcd</sys_name>
+        <sys_package display_value="Bike Repairs" source="x_1234_bike_repa_0">9177457b9fa131107f44efd21124abc8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Bike Repairs">9177457b9fa131107f44efd21124abc8</sys_scope>
+        <sys_update_name>sys_embedded_help_role_1977457b9fa131107f44efd21124abcf</sys_update_name>
+    </sys_embedded_help_role>
+</record_update>
